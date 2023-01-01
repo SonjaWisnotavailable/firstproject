@@ -68,4 +68,26 @@ h1, h2 {
     height: 600px;
     width: 100%;
     overflow: hidden;
+    position: relative;
+
+}
+
+#cover-text, #cover-text h2
+  {
+    color: rgb(1, 51, 117)
+
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: Martian Mono, sans-serif;
+    text-transform: uppercase;
+    width: 300px;
+    height: 200px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgba(173, 15, 94, 0.555);
+    bottom: 30px;
+    right: 150px;
+    position: absolute;
 }
