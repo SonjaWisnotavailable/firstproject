@@ -63,7 +63,7 @@ h1, h2 {
     height: 600px;
     width: 100%;
     background: url('../images/hero-image.jpeg') no-repeat center center;
-    background-color: rgb(209, 208, 203);
+    
 }
 
 #hero-outer {
@@ -95,11 +95,10 @@ h1, h2 {
 }
 
 #about-us {
-    margin-left: 80px;
+    margin-left: 50px;
     text-align: left;
     height: 600px;
-    background-color: inherit;
-    text-decoration: underline solid 8px rgb(99, 2, 34);
+
 }
 
 hr {
@@ -109,10 +108,11 @@ hr {
 }
 #left-about {
    padding-top: 30px;
-   width: 66%;
+   width: 99%;
    margin-left: 80px;
    float: left;
-   background-color: rgb(252, 250, 243);
+
+   
 }
 
 .left-about-heading {
@@ -123,3 +123,4 @@ hr {
     clear: both;
     margin-bottom: 50px;
 }
+
