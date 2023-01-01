@@ -55,4 +55,17 @@ h1, h2 {
 
 .active {
     border-bottom: 2px solid rgb(99, 2, 34);
+} 
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url('../images/hero-image.jpeg') no-repeat center center;
+    background-color: rgb(209, 208, 203);
+}
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
 }
