@@ -95,8 +95,11 @@ h1, h2 {
 }
 
 #about-us {
-
+    margin-left: 80px;
+    text-align: left;
     height: 600px;
+    background-color: inherit;
+    text-decoration: underline solid 8px rgb(99, 2, 34);
 }
 
 hr {
