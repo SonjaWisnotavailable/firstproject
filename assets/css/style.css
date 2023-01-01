@@ -98,14 +98,8 @@ h1, h2 {
     margin-left: 50px;
     text-align: left;
     height: 600px;
-
 }
 
-hr {
-    border-top: 4px solid rgb(99, 2, 34);
-    border-style: solid;
-
-}
 #left-about {
    padding-top: 30px;
    width: 99%;
@@ -140,7 +134,7 @@ hr {
 #information div {
 
     color:rgb(17, 4, 4);
-    width: 40%;
+    width: 50%;
     height: 300px;
     padding: 30px 0 0 10px;
     text-align: center;
@@ -149,6 +143,7 @@ hr {
     font-weight: 300;
     padding: 30px 00 10px;
     border: 3px solid white;
+    box-sizing: border-box;
 
 }
 
@@ -158,4 +153,28 @@ hr {
     padding-left: 30px;
     line-height: 2px;
     font-family: Roboto, sans-serif;
+}
+
+footer {
+    height: 150px;
+
+}
+
+.social-network {
+    text-align: center;
+
+
+}
+
+.social-network >li {
+
+    display: inline;
+}
+
+.social-network i {
+
+    font-size: 200%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
 }
