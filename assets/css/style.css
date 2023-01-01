@@ -24,6 +24,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 400%;
+    margin-left: 40px;
 }
 
 #menu {
@@ -31,6 +32,7 @@ h1, h2 {
     letter-spacing: 5px;
 
 }
+
 
 #menu li {
     float: right;
@@ -90,4 +92,15 @@ h1, h2 {
     bottom: 30px;
     right: 150px;
     position: absolute;
+}
+
+#about-us {
+
+    height: 600px;
+}
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+
 }
