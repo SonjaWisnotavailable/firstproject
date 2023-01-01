@@ -99,8 +99,24 @@ h1, h2 {
     height: 600px;
 }
 
-#center-about {
-    width: 33%;
-    margin: 0 auto;
+hr {
+    border-top: 4px solid rgb(99, 2, 34);
+    border-style: solid;
 
+}
+#left-about {
+   padding-top: 30px;
+   width: 66%;
+   margin-left: 80px;
+   float: left;
+   background-color: rgb(252, 250, 243);
+}
+
+.left-about-heading {
+
+    width: 60%;
+    float: left;
+    line-height: 30px;
+    clear: both;
+    margin-bottom: 50px;
 }
