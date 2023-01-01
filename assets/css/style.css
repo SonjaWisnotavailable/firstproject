@@ -9,4 +9,20 @@
 body {
     font-family: Martian Mono, sans-serif;
     font-weight: 300;
+    color: #3a3a3a;
+
 }
+
+h1, h2 {
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: rgb(17, 4, 4)
+}
+
+
+#logo {
+    float: left;
+    font-size: 400%;
+}
+
