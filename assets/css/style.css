@@ -124,3 +124,19 @@ hr {
     margin-bottom: 50px;
 }
 
+#information {
+    background-image: url('../images/information-section.jpeg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+    color: rgb(7, 7, 226);
+}
+
+#information div {
+
+    color:rgb(17, 4, 4);
+    width: 50%;
+    height: 300px;
+    margin-left: 30px;
+}
