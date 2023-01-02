@@ -193,3 +193,31 @@ footer {
     width: 100%;
 
 }
+
+@media screen and (max-width:1200px) {
+    #about-us {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+
+    }
+
+  #about-us >p {
+    padding: 30px 0;
+    margin: 0;
+
+  }  
+
+  #left-about {
+
+    width: 100%;
+    float: left;
+    padding: 0;
+
+    }
+
+    hr {
+
+        display: none;
+    }
+}
