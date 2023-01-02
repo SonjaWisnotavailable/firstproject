@@ -216,6 +216,13 @@ footer {
 
     }
 
+    #information >div {
+        width: 100%;
+        clear: both;
+        float: left;
+        padding: 0;
+    }
+
     hr {
 
         display: none;
