@@ -13,3 +13,9 @@ Screenshots placed here :
 Contact :
 
 I used "https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html" as a  guide to learn and implement my contact emails that I used in the website. 
+
+
+
+Booking Form : 
+
+I used https://www.w3schools.com/howto/howto_css_contact_form.asp to help with my booking formation.

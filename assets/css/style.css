@@ -255,7 +255,7 @@ footer {
     }
     .left-about-heading h2 {
 
-        width: 100%;
+        width: 80%;
         text-align: center;
     }
     
@@ -289,4 +289,13 @@ footer {
 .flex.div {
     border: 2 px solid #3a3a3a;
     width: 100%;
+}
+
+.container {
+    <form action="action_php">
+    <label for="fname">First Name</label>
+    <input type="text" id="fname"    name="First Name" placeholder="Your Name">
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname"    name="Last Name"   placeholder="Last Name"> 
+</form>
 }
