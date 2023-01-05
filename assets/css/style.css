@@ -278,11 +278,9 @@ footer {
 
 .flex-dev {
     
- { }
-    display: flex;
-    flex-direction:column; }
 
-.flex.div {
+    display: flex;
+    flex-direction: column;
     border: 2 px solid #3a3a3a;
     width: 100%;
 }
@@ -325,17 +323,18 @@ footer {
 .booking-form {
 
 
-margin: 150px 10% 0 0;
+margin-left: 20px;
 color: rgb(17, 3, 31);
 background-color: rgba(49, 3, 136, 0.6);
 max-width: 600px;
-position: left;
 padding: 50px;
+padding-top: 50px;
 }
 
 .booking-form> h2 {
 color: #fafafa;
-margin-bottom: 20px;
+margin-bottom: 10px;
+font-family: Martian Mono, sans-serif;
 }
 
 .text-input {
@@ -344,10 +343,37 @@ color: #fafafa;
 width: 100%;
 height: 25px;
 margin: 5px 0 20px 0;
-border: 2px solid #fafafa;
+border: 4px solid #fafafa;
 border-radius: 2px;
+font-family: Roboto, sans-serif
 }
 
 .text-input:hover {
-border-color: #f16c6b;
+border-color: #3a3a3a;
 }
+
+#booking-form {
+
+    .flex-dev {
+    
+
+        display: flex;
+        flex-direction: column;
+        border: 2 px solid;
+        width: 80%;
+    }
+}
+
+        button
+            {
+
+
+                display: inline-block; 
+                background-color: #7b38d8;
+                padding: 20px; 
+                width: 200px;
+                font-family: Roboto, sans-serif;
+                font-size: larger; 
+                color: #ffffff; 
+            }
+                
