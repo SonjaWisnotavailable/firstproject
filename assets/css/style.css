@@ -230,10 +230,10 @@ footer {
 }
 
 
-@media  screen and (max-width: 950px) {
+@media  screen and (max-width: 950px) 
+{
     #menu {
         clear:left;
-        float: left;
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
@@ -246,14 +246,11 @@ footer {
     }
     #about-us {
         width: 90%;
-        height: 1200px;
         margin: 0 auto;
 
 
     }
 
-    .left-about-heading {
-         width: inherit;
 
     }
     .left-about-heading h2 {
@@ -277,4 +274,19 @@ footer {
     #photos {
         column-count: 2;
     }
+}
+
+.flex-dev {
+    
+ {
+
+    }
+    display: flex;
+    flex-direction:column;
+
+}
+
+.flex.div {
+    border: 2 px solid #3a3a3a;
+    width: 100%;
 }
