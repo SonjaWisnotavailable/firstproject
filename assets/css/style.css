@@ -118,6 +118,37 @@ h1, h2 {
     margin-bottom: 50px;
 }
 
+
+.promotions {
+
+    font-family: Roboto, sans-serif;
+    color: rgb(17, 3, 31);
+
+}
+
+
+#promo-image {
+        font-size: 30px;
+        color: inherit;
+        letter-spacing: 5px;
+        margin-left: 30%;
+        padding-bottom: 10%;
+        text-decoration: none;
+
+
+}
+
+#promo-image a:hover {
+
+        border-bottom: 2px solid rgb(241, 237, 238);
+}
+.flex {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #location {
     text-decoration: solid underline;
 }
@@ -264,11 +295,13 @@ footer {
         padding: 0 20px;
 
     }
+
+
     #photos {
         column-count: 3;
 
     }
-}
+
 
 @media screen and (max-width:800px) {
     #photos {
@@ -316,6 +349,7 @@ footer {
 
 #menu a:hover {
     border-bottom: 2px solid rgb(99, 2, 34);
+    
 }
 
 
@@ -352,7 +386,7 @@ font-family: Roboto, sans-serif
 border-color: #3a3a3a;
 }
 
-#booking-form {
+
 
     .flex-dev {
     
@@ -361,8 +395,9 @@ border-color: #3a3a3a;
         flex-direction: column;
         border: 2 px solid;
         width: 80%;
-    }
-}
+             }
+
+
 
         button
             {
@@ -387,3 +422,22 @@ border-color: #3a3a3a;
         padding-top: 100px;
     
     }
+
+#404-page > #h1, h2{
+        font-family: Roboto, sans-serif;
+        letter-spacing: 5px;
+        color: rgb(17, 4, 4)
+
+}
+
+
+#404-sorry {
+
+    .404-div {
+
+        display: flex;
+        justify-content: center;
+        
+    }
+
+}
