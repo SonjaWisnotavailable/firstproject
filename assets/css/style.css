@@ -129,7 +129,7 @@ h1, h2 {
 
 #promo-image {
         font-size: 30px;
-        color: inherit;
+        color: #3a3a3a;
         letter-spacing: 5px;
         margin-left: 30%;
         padding-bottom: 10%;
@@ -141,7 +141,23 @@ h1, h2 {
 #promo-image a:hover {
 
         border-bottom: 2px solid rgb(241, 237, 238);
-}
+
+
+    }
+
+
+    .blink {
+        animation: blinker 3s linear infinite;
+        color:#3a3a3a;
+        font-family: inherit;
+    }
+    @keyframes blinker {
+        50% {
+            opacity: 0;
+        }
+    }
+
+
 .flex {
 
     display: flex;
@@ -149,9 +165,7 @@ h1, h2 {
     align-items: center;
 }
 
-#location {
-    text-decoration: solid underline;
-}
+
 
 #information {
     background-image: url('../images/information-section.jpeg');
@@ -363,6 +377,7 @@ background-color: rgba(49, 3, 136, 0.6);
 max-width: 600px;
 padding: 50px;
 padding-top: 50px;
+clear: both;
 }
 
 .booking-form> h2 {
@@ -415,29 +430,36 @@ border-color: #3a3a3a;
 
      #text-center {
     
-        text-align: center;
-        color: rgb(17, 3, 31);
-        max-width: 600px;
-        padding: 100px;
-        padding-top: 100px;
     
-    }
-
-#404-page > #h1, h2{
-        font-family: Roboto, sans-serif;
-        letter-spacing: 5px;
-        color: rgb(17, 4, 4)
-
-}
-
-
-#404-sorry {
-
-    .404-div {
-
-        display: flex;
-        justify-content: center;
+        color: rgb(17, 3, 31);
+        max-width: 300px;
+        clear: both;
+        padding: 10%;
         
     }
 
+
+    
+
+.return-to-home
+ {
+    font-style: italic;
+    text-decoration: solid;
+    text-transform: none;
+
+ }
+
+.sorry >error-message
+        {
+
+    padding-top: 20%;
+    font-family: Roboto, sans-serif;
+    clear: both;
+    text-transform: none;
+    max-width: 200px;
+}
+
+#error {
+
+    padding-left: 35%;
 }

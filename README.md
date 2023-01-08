@@ -155,6 +155,13 @@ Getting started with your Portfolio Projects can be daunting, planning your proj
 
 Contact :
 
+Used :
+
+https://www.w3schools.in/html/blink-tag
+
+ to teach me how to use a blink tag
+
+
 I used "https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html" as a  guide to learn and implement my contact emails that I used in the website. 
 
 
