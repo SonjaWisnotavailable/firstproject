@@ -17,7 +17,59 @@ Screenshots placed here :
 ![Screenshot (1)](https://user-images.githubusercontent.com/119712515/211421578-ddf38c65-f812-4b35-99cc-6445dc7171dc.png)
 
 
+Contents: 
 
+<ul>
+    <li> User Experience </li>
+    <li> Features </li>
+    <li> Technology Used </li>
+    <li> Deployment </li>
+    <li> Testing </li>
+    <li> Credits </li>
+    <li> Acknowledgements </li>
+    
+   <br>
+   <br>
+    <h1> Initial Discussion </h1>
+    <h2> User Experience </h2>
+   <hr>
+    <br>
+    <p>
+        The Cleanin' Co is a website set up primarily to target those who wish so start the New Year anew and have a fresh start with their New Year Resolutions.
+    </p>
+    
+    <br>
+    
+    <br> 
+    
+    <h3> Key Information: </h3>
+    <br>
+    <ol>
+        <li> Historical infomration pertaining to the company. </li>
+        <li> Gallery displaying work completed by the company. </li>
+        <li> Contact form for getting in contact with the company and making bookings. </li>
+        <li> E-mails and phone number also on the website, aswell as a location for the prospective customer to have multiple means to contact the Cleanin' Co. </li>
+    </ol>
+        <br>
+        <br>
+        
+        <h3> Client Goals: </h3>
+        <br>
+        <ol> 
+            <li> To view this website on different devices.</li>
+            <li> To have an easy and convenient method of contacting the company. </li>
+         <ol>
+             <br>
+             <br>
+             
+             <h3> First time User Goals: </h3>
+             
+             <ul>
+                 <li> I want to easily navigate the website. </li>
+                 <li> I want to connect to the company through the information available to me on the website. </li>
+             </ul>
+      
+         
 
 
 
