@@ -317,11 +317,9 @@ footer {
 }
 
 .flex-dev {
-    
-
-    display: flex;
+     display: flex;
     flex-direction: column;
-    border: 2 px solid #3a3a3a;
+    border: 2px solid #3a3a3a;
     width: 100%;
 }
 
@@ -401,7 +399,7 @@ border-color: #3a3a3a;
 
         display: flex;
         flex-direction: column;
-        border: 2 px solid;
+        border: 2px solid;
         width: 80%;
              }
 
