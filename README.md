@@ -19,102 +19,80 @@ Screenshots placed here :
 
 
 
-<heading> Contents: </heading> 
+# Contents: 
 
-<ul>
-    <li> User Experience </li>
-    <li> Features </li>
-    <li> Technology Used </li>
-    <li> Deployment </li>
-    <li> Testing </li>
-    <li> Credits </li>
-    <li> Acknowledgements </li>
+    . User Experience
+    . Features 
+    . Technology Used 
+    . Deployment 
+    . Testing 
+    . Credits 
+    . Acknowledgements 
     
-   <br>
-   <br>
-    <h1> Initial Discussion </h1>
-    <h2> User Experience </h2>
-   <hr>
-    <br>
-    <p>
+  
+    # Initial Discussion 
+    ## User Experience 
+   
+    
         The Cleanin' Co is a website set up primarily to target those who wish so start the New Year anew and have a fresh start with their New Year Resolutions.
-    </p>
     
-    <br>
     
-    <br> 
+    ### Key Information: 
     
-    <h3> Key Information: </h3>
-    <br>
-    <ol>
-        <li> Historical infomration pertaining to the company. </li>
-        <li> Gallery displaying work completed by the company. </li>
-        <li> Contact form for getting in contact with the company and making bookings. </li>
-        <li> E-mails and phone number also on the website, aswell as a location for the prospective customer to have multiple means to contact the Cleanin' Co. </li>
-    </ol>
-        <br>
-        <br>
+    
+     1 Historical infomration pertaining to the company. 
+     2 Gallery displaying work completed by the company. 
+     3 Contact form for getting in contact with the company and making bookings. 
+     4 E-mails and phone number also on the website, aswell as a location for the prospective customer to have multiple means to contact the Cleanin' Co. 
+    
+       
+               
+        ### Client Goals: 
         
-        <h3> Client Goals: </h3>
-        <br>
-        <ol> 
-            <li> To view this website on different devices.</li>
-            <li> To have an easy and convenient method of contacting the company. </li>
-         <ol>
-             <br>
-             <br>
-             
-             <h3> First time Visitor Goals: </h3>
-             
-             <ul>
-                 <li> I want to easily navigate the website. </li>
-                 <li> I want to connect to the company through the information available to me on the website. </li>
-             </ul>
-             <br>
-             <br>
-      
-             <h3> Returning Visitor Goals: </h3>
-             
-             <ul>
-                 <li> I want to be familiar with the layout of the website. </li>
-                 <li> I want to find it quick and easy to contact the company. </li>
-             </ul>
-             <br>
-             <br>
+        
+            1 To view this website on different devices.
+            2 To have an easy and convenient method of contacting the company. 
             
-             <h3> Frequent User: </h3>
-             <ul>
-                 <li> I want to be able to know the website layout and navigate where I need to go/contact the company. </li>
-             </ul>
-             <br>
-             <br>
+     ### First time Visitor Goals:
              
-             <h2> Design: </h2>
-             <h3> Colours: </h3>
-             <br>
-            <p> 
+          
+      1 I want to easily navigate the website. 
+      2 I want to connect to the company through the information available to me on the website. 
+           
+
+     ### Returning Visitor Goals: 
+              
+       1 I want to be familiar with the layout of the website. 
+       2 I want to find it quick and easy to contact the company. 
+                         
+            
+       ### Frequent User:
+             
+       1 I want to be able to know the website layout and navigate where I need to go/contact the company.
+            
+       ## Design: 
+      ### Colours: 
+             
+       
                 I looked at the website coolors, (https://coolors.co/) to give me inspiration, however I chose my own colour palette for this website. 
                 The deliberate use of light and pastel colours is to emmulate a neat and tidy environment, appealing to prospective customers and 
                 those who visit the webiste. </p>
-             <br>
-             <br>
-             <h3> Typography: </h3>
-            <br>
-             <p>
+             
+     ### Typography: 
+                         
                  I chose Martian Mono and Roboto from Google Fonts as I believe they compliment each-other nicely, with clear and simple text. </p>
-             <br>
-             <br>
+                          
              ![Screenshot (9)](https://user-images.githubusercontent.com/119712515/211427409-0f006bc3-d326-4b7c-ad34-4b5c510dd322.png)
              
              
-             <br>
-             <br>
-             <br>
              
-             <h2> Wireframe Design Using Balsamiq: </h2>
-             <p> I used Balsamiq to help plan out the design of the website. I deviated slightly from it as when challenges arose through coding and different styling was needed. </p> 
-             <br>
-             <br>
+             
+        ## Wireframe Design Using Balsamiq: 
+        
+             I used Balsamiq to help plan out the design of the website. I deviated slightly from it as when challenges arose through coding and different styling was needed. 
+             
+             
+             
            
             ![New Wireframe 2 copy 2](https://user-images.githubusercontent.com/119712515/211429999-ad770b10-ee34-455e-ae7c-31aaec33dafb.png)
             ![New Wireframe 2 copy 3](https://user-images.githubusercontent.com/119712515/211430003-db1499ab-1f98-4fb2-97fe-e02878f1da38.png)
@@ -122,19 +100,17 @@ Screenshots placed here :
             ![New Wireframe 2 copy](https://user-images.githubusercontent.com/119712515/211430005-e95a36f5-dd44-4d78-87cf-f5817ba17f49.png)
             ![New Wireframe 2](https://user-images.githubusercontent.com/119712515/211430007-bf3cd7b2-6a5b-4107-9c69-17e5d04404c0.png)
 
-             <h2> Features: </h2>
-             <br>
-             <br>
+        ## Features: 
+             
              This website features:
-             <ul> 
-                 <li> Home </li>
-                 <li> Book Here </li>
-                 <li> Gallery </li>
-                 <li> 404 Error Page </li>
-                 <li> Thank you for contacting us page </li>
-             </ul>
-             <br>
-             <br>
+             
+          
+                1 Home 
+                2 Book Here 
+                3 Gallery 
+                4 404 Error Page
+                5 Thank you for contacting us page 
+     
              
              ![Screenshot (11)](https://user-images.githubusercontent.com/11
              !Screenshot (12)](https://user-images.githubusercontent.com/119712515/211427900-6dd3f30d-5afe-4815-839a-5b6830a9e320.png)
@@ -145,85 +121,68 @@ Screenshots placed here :
              ![Screenshot (15)](https://user-images.githubusercontent.com/119712515/211428334-f7e29571-21fb-43ad-a258-4302a6a81165.png)
 
              
-             <br>
-             <br>
-             <h2> Future Implementations: </h2>
-             <br>
-             <br>
-             <p>
-                 In the future I would add a larger gallery of work done, a price list and perhaps some styling of the social media section through favicon. </p>
-             <br>
-             <br>
-             
-             <h2> Technology Used: </h2>
-             <br>
-             <br>
-             <h3> Languages: </h3>
-             <br>
-             <br>
-             <p> HTML and CSS were used to make this website. </p>
-             <br>
-             <br>
-             
-             <h2> Frameworks, Libraries and Programs Used: </h2>
-             <br>
-             <br>
-             <ul>
-                 <li> Github was to used to save and store code. </li>
-                 <li> Google Fonts was used to import fonts for my website. </li>
-                 <li> Iconography was imported from Font Awesome. </li>
-                 <li> W3C was used to learn and implement code. </li>
-                 <li> Balsamiq was used to create the basic wireframe design of the website. </li>
-             </ul>
-             <br>
-             <br>
              
              
-             <h2> Deployment: </h2>
-             <br>
-             <br>
-             <p> I used GitHub Pages to deploy the website. --> link<-- </p>
-                 <br>
-                 <br>
+             ## Future Implementations:              
+             
+             
+                 In the future I would add a larger gallery of work done, a price list and perhaps some styling of the social media section through favicon. 
+             
+             
+             ## Technology Used: 
+             
+             
+            ### Languages: 
+             
+             
+              HTML and CSS were used to make this website. 
+             
+             
+            
+            ## Frameworks, Libraries and Programs Used: 
+           
+                 1 Github was to used to save and store code. 
+                 2 Google Fonts was used to import fonts for my website. 
+                 3 Iconography was imported from Font Awesome. 
+                 4 W3C was used to learn and implement code. 
+                 5 Balsamiq was used to create the basic wireframe design of the website. 
+             
+             
+          
+             
+            ## Deployment: 
+            
+              I used GitHub Pages to deploy the website.
                  
-             <h3> To Deploy Using GitHub Pages: </h3>
-             <br>
-             <br>
-             <ol>
-                 <li> Login/Sign- Up to Github. </li>
-                 <li> Find the respitory for the website. </li>
-                 <li> Click on "Settings". </li>
-                 <li> Select "Main branch" and choose "Save". </li>
-                 <li> The website is now live. </li>
-                 
-             </ol>
-             <br>
-             <br> 
              
-             <h3> Local Deployment: To Fork </h3>
-             <br>
-             <br>
-             <ol>
-                 <li> Login/Sign-Up to Github. </li>
-                 <li> Select the repository for this website. </li>
-                 <li> Select the "Fork" button in the right-hand corner. </li>
-             </ol>
-             <br>
-             <br>
+             ### To Deploy Using GitHub Pages: 
              
-             <h3> How To Clone: </h3>
-             <br>
-             <br>
-             <ol> 
-                 <li> Login/Sign-Up to Github. </li>
-                 <li> Click on the code and choose to clone between "https", "ssh" or "githubcu" and copy the link provided. </li>
-                 <li> Open the terminal you are using in your editor. </li>
-                 <li> Select the location you want to clone the website to. </li>
-                 <li> Type "git done" and paste, followed by "Enter". </li>
-                 <br>
-                 <br>
+             
+             
+               1 Login/Sign- Up to Github. 
+               2 Find the respitory for the website. 
+               3 Click on "Settings". 
+               4 Select "Main branch" and choose "Save". 
+               5 The website is now live. 
                  
-              
+ 
+             
+             
+            
+             
+            # Testing:
+           
+                     I tested my website out on my laptop, my computer, my phone, relative's phones and tablets and on my Xbox. 
+            The website ran nicely on all devices. 
+          
+           
+           
+           ## Bugs Found 
+           
+           I had a number of small issues arise during my initial testing and when I looked back over the code itself one line at a time, after rectifying this the website was much more responsive, however I am learning more about flex-box implementation and I intend to become far more knowledgable with the use of them to help with responsiveness.
+         
+          
+             
 
                     
            
