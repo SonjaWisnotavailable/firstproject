@@ -2,7 +2,7 @@ The Cleanin' Co.
 
 This website is for a fictional cleaning company based in Ireland that boasts it's length of service in the country since after the Irish Famine. 
     The aim of this website is to create a basic history on the company and to give the prospective customer a user-friendly experience and make booking through the contact form very simple and convenient. 
-The live website can be viewed here : https://sonjawisnotavailable.github.io/firstproject/
+The live website can be viewed here :(https://sonjawisnotavailable.github.io/firstproject/) 
 
 
 
@@ -40,10 +40,10 @@ The live website can be viewed here : https://sonjawisnotavailable.github.io/fir
    
 
 * [Testing](#testing)
+* [Bugs Found](#bugs-found)
 
 * [Credits](#credits)
   * [Code Used](#code-used)
-  * [Content](#content)
   * [Media](#media)
   * [Acknowledgments](#acknowledgments)
 
@@ -53,7 +53,7 @@ The live website can be viewed here : https://sonjawisnotavailable.github.io/fir
     
     
   
- # Initial Discussion 
+ ## Initial Discussion
  ## User Experience 
    
     
@@ -134,17 +134,13 @@ I chose Martian Mono and Roboto from Google Fonts as I believe they compliment e
   4 404 Error Page
   5 Thank you for contacting us page 
      
-             
-  ![Screenshot (11)](https://user-images.githubusercontent.com/11
-  !Screenshot (12)](https://user-images.githubusercontent.com/119712515/211427900-6dd3f30d-5afe-4815-839a-5b6830a9e320.png)
-             
+            
   ![Screenshot (5)](https://user-images.githubusercontent.com/119712515/211428123-4bfffd2b-83e4-4037-b762-78bc9b1c3c55.png)
   ![Screenshot (14)](https://user-images.githubusercontent.com/119712515/211428210-5e4ff564-4af0-4117-bd4e-c9f7f7cdc4d1.png)
+  ![Screenshot (15)](https://user-images.githubusercontent.com/119712515/211428334-f7e29571-21fb-43ad-a258-4302a6a81165.png)         
+  ![Screenshot (11)](https://user-images.githubusercontent.com/119712515/211918819-3edf69f8-5fde-4f1d-b9ee-d79457852695.png)
+  ![Screenshot (12)](https://user-images.githubusercontent.com/119712515/211918894-15818d36-e3e8-4663-a3e3-865cd59be226.png)
 
-  ![Screenshot (15)](https://user-images.githubusercontent.com/119712515/211428334-f7e29571-21fb-43ad-a258-4302a6a81165.png)
-
-             
-             
              
    ## Future Implementations:              
              
@@ -182,24 +178,60 @@ I chose Martian Mono and Roboto from Google Fonts as I believe they compliment e
              
              
              
-  1 Login/Sign- Up to Github. 
-  2 Find the respitory for the website. 
-  3 Click on "Settings". 
-  4 Select "Main branch" and choose "Save". 
-  5 The website is now live. 
+  - Login/Sign- Up to Github. 
+  - Find the respitory for the website. 
+  - Click on "Settings". 
+  - Select "Main branch" and choose "Save". 
+  - The website is now live. 
                  
  
              
              
             
-             
-# Testing:
+            
+## Testing:
            
    I tested my website out on my laptop, my computer, my phone, relative's phones and tablets and on my Xbox. 
    The website ran nicely on all devices. 
+   
+   I used 
+   
+   
+     (https://jigsaw.w3.org/css-validator/) 
+   
+   to perform HTML and CSS testing. 
+   
+   I used 
+   
+       (https://www.webpagetest.org/lighthouse)
+   
+   ### CSS
+   
+   ![Screenshot (20)](https://user-images.githubusercontent.com/119712515/211921193-7fbbefcd-52ea-42b4-bfed-b281edb6aeda.png)
+
+   
+
+   
+  ### HTML:
+  
           
-           
-           
+  ![Screenshot (16)](https://user-images.githubusercontent.com/119712515/211919530-bd2bbecc-e08d-4fa9-b8f3-62fe2a177ee6.png)
+  
+   
+   
+   ### Lighthouse: 
+   
+   ![Screenshot (17)](https://user-images.githubusercontent.com/119712515/211919780-5beb8639-4576-43fe-a8ed-cc9f63068efa.png)
+   
+   
+   ### Performance:
+   
+   ![WEB-CAPTURE of website](https://user-images.githubusercontent.com/119712515/211920056-231ae5ea-7408-4b31-be72-80a042de3db3.jpeg)
+
+
+   
+   
+   
   ## Bugs Found 
           
   I had a number of small issues arise during my initial testing and when I looked back over the code itself one line at a time, after rectifying this the website was much more responsive, however I am learning more about flex-box implementation and I intend to become far more knowledgable with the use of them to help with responsiveness.
@@ -208,11 +240,11 @@ I chose Martian Mono and Roboto from Google Fonts as I believe they compliment e
              
 
                     
-           
+  ##Credits
+  
+  ###Code
           
-
-
-Contact :
+Some of the coding I have learned and inspired my own is from such sites as:
 
 Used :
 
@@ -223,8 +255,21 @@ https://www.w3schools.in/html/blink-tag
 
 I used "https://www.w3docs.com/snippets/html/how-to-create-mailto-links.html" as a  guide to learn and implement my contact emails that I used in the website. 
 
-
-
 Booking Form : 
 
 I used https://www.w3schools.com/howto/howto_css_contact_form.asp to help with my booking formation.
+
+I also took inspiration from the "Love-Running Project" Taught by Code Institute as it was fresh in my mind, I enjoyed the process and I wanted to honour my first my first-webpage made by me by implementing snips of coding.
+
+### Media
+
+All of the photos used in the making of my website were taking from the websites Pexels [https://www.pexels.com/search/free%20images/].
+
+
+
+### Acknowledgements
+
+I would like to thank my family for their patience on this new journey I am under-taking. 
+I would like to thank my fellow students who are all very supportive. 
+To the staff at Code Institute who are incredibly quick to respond and point me in the right direction.
+
