@@ -63,36 +63,36 @@ The live website can be viewed here :(https://sonjawisnotavailable.github.io/fir
  ### Key Information: 
     
     
-  1 Historical infomration pertaining to the company. 
-  2 Gallery displaying work completed by the company. 
-  3 Contact form for getting in contact with the company and making bookings. 
-  4 E-mails and phone number also on the website, aswell as a location for the prospective customer to have multiple means to contact the Cleanin' Co. 
+  - Historical infomration pertaining to the company. 
+  - Gallery displaying work completed by the company. 
+  - Contact form for getting in contact with the company and making bookings. 
+  - E-mails and phone number also on the website, aswell as a location for the prospective customer to have multiple means to contact the Cleanin' Co. 
     
        
                
    ### Client Goals: 
         
         
-   1 To view this website on different devices.
-   2 To have an easy and convenient method of contacting the company. 
+   - To view this website on different devices.
+   - To have an easy and convenient method of contacting the company. 
             
    ### First time Visitor Goals:
              
           
-   1 I want to easily navigate the website. 
-   2 I want to connect to the company through the information available to me on the website. 
+   - I want to easily navigate the website. 
+   - I want to connect to the company through the information available to me on the website. 
            
 
    ### Returning Visitor Goals: 
               
-   1 I want to be familiar with the layout of the website. 
-   2 I want to find it quick and easy to contact the company. 
+   - I want to be familiar with the layout of the website. 
+   - I want to find it quick and easy to contact the company. 
                          
             
   ### Frequent User:
              
-   1 I want to be able to know the website layout and navigate where I need to go/contact the company.
-            
+   - I want to be able to know the website layout and navigate where I need to go/contact the company.
+           
   ## Design: 
   ### Colours: 
              
@@ -128,11 +128,11 @@ I chose Martian Mono and Roboto from Google Fonts as I believe they compliment e
    This website features:
              
           
-  1 Home 
-  2 Book Here 
-  3 Gallery 
-  4 404 Error Page
-  5 Thank you for contacting us page 
+  - Home 
+  - Book Here 
+  - Gallery 
+  - 404 Error Page
+  - Thank you for contacting us page 
      
             
   ![Screenshot (5)](https://user-images.githubusercontent.com/119712515/211428123-4bfffd2b-83e4-4037-b762-78bc9b1c3c55.png)
@@ -160,11 +160,11 @@ I chose Martian Mono and Roboto from Google Fonts as I believe they compliment e
             
   ## Frameworks, Libraries and Programs Used: 
            
-  1 Github was to used to save and store code. 
-  2 Google Fonts was used to import fonts for my website. 
-  3 Iconography was imported from Font Awesome. 
-  4 W3C was used to learn and implement code. 
-  5 Balsamiq was used to create the basic wireframe design of the website. 
+  - Github was to used to save and store code. 
+  - Google Fonts was used to import fonts for my website. 
+  - Iconography was imported from Font Awesome. 
+  - W3 schools was used to learn and implement code. 
+  - Balsamiq was used to create the basic wireframe design of the website. 
              
              
           
@@ -242,6 +242,9 @@ I chose Martian Mono and Roboto from Google Fonts as I believe they compliment e
                     
   ##Credits
   
+  
+  How to make and layout a README.md file was inspired by the presentation found on GitHub by Kera Cudmore.
+  
   ###Code
           
 Some of the coding I have learned and inspired my own is from such sites as:
@@ -265,7 +268,9 @@ I also took inspiration from the "Love-Running Project" Taught by Code Institute
 
 All of the photos used in the making of my website were taking from the websites Pexels [https://www.pexels.com/search/free%20images/].
 
+The icons were taken from font-awesome [https://fontawesome.com/]
 
+The fonts were imported from Google Fonts [https://fonts.google.com/]
 
 ### Acknowledgements
 
