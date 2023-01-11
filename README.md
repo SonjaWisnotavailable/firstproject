@@ -45,7 +45,7 @@ The live website can be viewed here :(https://sonjawisnotavailable.github.io/fir
 * [Credits](#credits)
   * [Code Used](#code-used)
   * [Media](#media)
-  * [Acknowledgments](#acknowledgments)
+  * [Acknowledegments](#acknowledegments)
 
 ---
 
@@ -53,7 +53,7 @@ The live website can be viewed here :(https://sonjawisnotavailable.github.io/fir
     
     
   
- ## Initial Discussion
+
  ## User Experience 
    
     
@@ -234,7 +234,7 @@ I chose Martian Mono and Roboto from Google Fonts as I believe they compliment e
    
   ## Bugs Found 
           
-  I had a number of small issues arise during my initial testing and when I looked back over the code itself one line at a time, after rectifying this the website was much more responsive, however I am learning more about flex-box implementation and I intend to become far more knowledgable with the use of them to help with responsiveness.
+  I had a number of small issues arise during my initial testing and when I looked back over the code itself one line at a time, I found stray divs, missing paragraphs and small things like that. After rectifying this the website was much more responsive, passed all of the testing etc. However I am learning more about flex-box implementation and I intend to become far more experienced with the use of them to help with responsiveness.
          
           
              
