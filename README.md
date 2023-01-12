@@ -1,6 +1,6 @@
 The Cleanin' Co.
 
-This website is for a fictional cleaning company based in Ireland that boasts it's length of service in the country since after the Irish Famine. 
+This website is for a fictional cleaning company based in Ireland that boasts its length of service in the country since after the Irish Famine. 
     The aim of this website is to create a basic history on the company and to give the prospective customer a user-friendly experience and make booking through the contact form very simple and convenient. 
 The live website can be viewed here :(https://sonjawisnotavailable.github.io/firstproject/) 
 
@@ -16,7 +16,7 @@ The live website can be viewed here :(https://sonjawisnotavailable.github.io/fir
 # Contents
 
 * [User Experience](#user-experience-ux)
-* [Key Info](#key-information)
+* [Key Information](#key-information)
 * [User Stories](#user-stories)
 * [Client Goals](client-goals)
  
@@ -26,19 +26,17 @@ The live website can be viewed here :(https://sonjawisnotavailable.github.io/fir
   * [Wireframes](#wireframes)
 
 * [Features](#features)
-  * [General Features on Each Page](#general-features-on-each-page)
   * [Future Implementations](#future-implementations)
+  * [Spell Check](#spell-check)
  
 
-* [Technologies Used](#technologies-used)
+* [Technology Used](#technology-used)
   * [Languages Used](#languages-used)
   * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
 
-* [Deployment & Local Development](#deployment--local-development)
   * [Deployment](#deployment)
-  * [Local Development](#local-development)
-   
 
+  
 * [Testing](#testing)
 * [Bugs Found](#bugs-found)
 
@@ -143,9 +141,11 @@ I chose Martian Mono and Roboto from Google Fonts as I believe they compliment e
 
 
 
-    ###Spell-check
     
-    I used the Grammarly extension and app, (https://app.grammarly.com/ddocs/1889981952)
+    
+    ## Spell Check
+    
+    I used the Grammarly extension and app ["https://app.grammarly.com/ddocs/1889981952"]
     to spell-check and check grammar on my website. An example of my use of the extension and app: 
     
     
@@ -168,7 +168,7 @@ I chose Martian Mono and Roboto from Google Fonts as I believe they compliment e
    ## Technology Used: 
              
              
-   ### Languages: 
+   ### Languages Used: 
              
              
  HTML and CSS were used to make this website. 
@@ -211,16 +211,11 @@ I chose Martian Mono and Roboto from Google Fonts as I believe they compliment e
    I tested my website out on my laptop, my computer, my phone, relative's phones and tablets and on my Xbox. 
    The website ran nicely on all devices. 
    
-   I used 
-   
-   
-     (https://jigsaw.w3.org/css-validator/) 
+   I used [https://jigsaw.w3.org/css-validator/"] 
    
    to perform HTML and CSS testing. 
    
-   I used 
-   
-       (https://www.webpagetest.org/lighthouse)
+   I used ["https://www.webpagetest.org/lighthouse"]
    
    ### CSS
    
@@ -273,18 +268,16 @@ My initial evaluating with Wave came up with numberous errors in the early stage
              
 
                     
-  ##Credits
+  ## Credits
   
   
   How to make and layout a README.md file was inspired by the presentation found on GitHub by Kera Cudmore.
   
-  ###Code
+  ### Code Used
           
 Some of the coding I have learned and inspired my own is from such sites as:
 
-Used :
-
-https://www.w3schools.in/html/blink-tag
+Used : (https://www.w3schools.in/html/blink-tag)
 
  to teach me how to use a blink tag
 
