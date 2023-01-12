@@ -6,13 +6,14 @@
     border: none;
 }
 
+/*main styling*/
 body {
     font-family: Martian Mono, sans-serif;
     font-weight: 300;
     color: #3a3a3a;
 
 }
-
+/* h1 and h2 styling*/
 h1, h2 {
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
@@ -20,20 +21,21 @@ h1, h2 {
     color: rgb(17, 4, 4)
 }
 
-
+/*cleanin co logo styling*/
 #logo {
     float: left;
     font-size: 400%;
     margin-left: 40px;
 }
 
+/* menu styling*/
 #menu {
     font-size: 120%;
     letter-spacing: 5px;
 
 }
 
-
+/*menu items styling and positioning*/
 #menu li {
     float: right;
     list-style-type: none;
@@ -51,6 +53,7 @@ h1, h2 {
 
 }
 
+/*mouse appearance*/
 #menu a:hover {
     border-bottom: 2px solid rgb(99, 2, 34);
 }
@@ -59,6 +62,8 @@ h1, h2 {
     border-bottom: 2px solid rgb(99, 2, 34);
 } 
 
+/*hero image styling*/
+
 #hero-image {
     height: 600px;
     width: 100%;
@@ -66,6 +71,7 @@ h1, h2 {
     
 }
 
+/*hero outer styling*/
 #hero-outer {
     height: 600px;
     width: 100%;
@@ -74,6 +80,8 @@ h1, h2 {
 
 }
 
+
+/*cover styling*/
 #cover-text, #cover-text h2
   {
     color: rgb(1, 51, 117)
@@ -93,13 +101,14 @@ h1, h2 {
     right: 150px;
     position: absolute;
 }
-
+ 
+/*about us section*/
 #about-us {
     margin-left: 50px;
     text-align: left;
     height: 600px;
 }
-
+/*left about styling*/
 #left-about {
    padding-top: 30px;
    width: 99%;
@@ -108,7 +117,7 @@ h1, h2 {
 
    
 }
-
+/*left about heading positioning and styling*/
 .left-about-heading {
 
     width: 60%;
@@ -118,7 +127,7 @@ h1, h2 {
     margin-bottom: 50px;
 }
 
-
+/*promotion section*/
 .promotions {
 
     font-family: Roboto, sans-serif;
@@ -126,7 +135,7 @@ h1, h2 {
 
 }
 
-
+/*promo image section*/
 #promo-image {
         font-size: 30px;
         color: #3a3a3a;
@@ -145,7 +154,7 @@ h1, h2 {
 
     }
 
-
+/*blink animation styled*/
     .blink {
         animation: blinker 3s linear infinite;
         color:#3a3a3a;
@@ -158,7 +167,7 @@ h1, h2 {
     }
 
 
-
+/* address, email , phone sections*/
 
 #information {
     background-image: url('../images/information-section.jpeg');
@@ -197,7 +206,7 @@ footer {
     height: 150px;
 
 }
-
+/*social media styling*/
 .social-network {
     text-align: center;
 
@@ -217,6 +226,7 @@ footer {
     color: #3a3a3a;
 }
 
+
 #photos {
 
     clear: both;
@@ -231,7 +241,7 @@ footer {
     width: 100%;
 
 }
-
+/*media queries for displaying website on small devices*/
 @media screen and (max-width:1200px) {
     #about-us {
         width: 65%;
@@ -356,7 +366,7 @@ footer {
     border-bottom: 2px solid rgb(99, 2, 34);
     
 }
-
+/* booking form section*/
 
 
 .booking-form {
@@ -439,7 +449,7 @@ border-color: #3a3a3a;
     text-transform: none;
 
  }
-
+/*error section*/
 .sorry >error-message
         {
 
