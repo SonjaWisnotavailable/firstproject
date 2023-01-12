@@ -141,6 +141,23 @@ I chose Martian Mono and Roboto from Google Fonts as I believe they compliment e
   ![Screenshot (11)](https://user-images.githubusercontent.com/119712515/211918819-3edf69f8-5fde-4f1d-b9ee-d79457852695.png)
   ![Screenshot (12)](https://user-images.githubusercontent.com/119712515/211918894-15818d36-e3e8-4663-a3e3-865cd59be226.png)
 
+
+
+    ###Spell-check
+    
+    I used the Grammarly extension and app, (https://app.grammarly.com/ddocs/1889981952)
+    to spell-check and check grammar on my website. An example of my use of the extension and app: 
+    
+    
+    
+    
+    
+![Screenshot (26)](https://user-images.githubusercontent.com/119712515/212190988-7b0ec3c1-8faf-4790-b21a-62c4e5bd3615.png)
+
+    
+    
+    
+
              
    ## Future Implementations:              
              
@@ -210,6 +227,22 @@ I chose Martian Mono and Roboto from Google Fonts as I believe they compliment e
    ![Screenshot (20)](https://user-images.githubusercontent.com/119712515/211921193-7fbbefcd-52ea-42b4-bfed-b281edb6aeda.png)
 
    
+I also used Wave Evaluation Tool Extension (https://wave.webaim.org/extension/) 
+My initial evaluating with Wave came up with numberous errors in the early stage of my coding however as I progressed all of those errors have been dealt with, as seen below: 
+
+
+
+
+![Screenshot (21)](https://user-images.githubusercontent.com/119712515/212189154-a44dec79-2a46-4626-84b1-9732455c5d40.png)
+
+![Screenshot (23)](https://user-images.githubusercontent.com/119712515/212189181-9eae78bc-7409-49cf-bdd0-b1b7987f86c4.png)
+
+![Screenshot (24)](https://user-images.githubusercontent.com/119712515/212189183-70cb83e2-b336-47c7-8f5a-f1c218c3b67d.png)
+
+![Screenshot (25)](https://user-images.githubusercontent.com/119712515/212189197-e54faa51-e8cd-4dce-ad55-daa46afd30c8.png)
+
+![Screenshot (20)](https://user-images.githubusercontent.com/119712515/212189207-4958075d-b756-4948-bad7-a505a234d774.png)
+
 
    
   ### HTML:
