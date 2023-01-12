@@ -143,10 +143,9 @@ I chose Martian Mono and Roboto from Google Fonts as I believe they compliment e
 
     
     
-    ## Spell Check
+## Spell Check
     
-    I used the Grammarly extension and app ["https://app.grammarly.com/ddocs/1889981952"]
-    to spell-check and check grammar on my website. An example of my use of the extension and app: 
+I used the Grammarly extension and app ["https://app.grammarly.com/ddocs/1889981952"] to spell-check and check grammar on my website. An example of my use of the extension and app: 
     
     
     
